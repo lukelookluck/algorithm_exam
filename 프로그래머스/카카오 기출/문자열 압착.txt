@@ -1,0 +1,7 @@
+1
+aabbacccc
+ababcdcdababcdcd
+abcabcdede
+abcabcabcabcdededededede
+xababcdcdababcdcd
+abcabcdede
