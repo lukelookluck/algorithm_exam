@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('../기술/임시/순열.txt')
+sys.stdin = open('../../기술/임시/순열.txt')
 
 
 def permutation(k, N, my_sum):
