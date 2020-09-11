@@ -24,25 +24,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="git init 2">
-      <change afterPath="$PROJECT_DIR$/기술/Trie/Trie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색_효율성x.py" afterDir="false" />
+    <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="가사 검색 문제">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/알고 문제.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/알고 문제.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/02월20일/배열 최소 합 by 승희.py" beforeDir="false" afterPath="$PROJECT_DIR$/1학기 알고/02월20일/배열 최소 합 by 승희.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/Bfs, Dfs/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/Bfs, Dfs/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/부분집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/부분집합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/순열_백트래킹.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/순열_백트래킹.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/순열_재귀(백트래킹보다 빠름).py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/순열_재귀(백트래킹보다 빠름).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/임시/배열 최소 합(순열로 한 거).py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/임시/배열 최소 합(순열로 한 거).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/임시/순열.txt" beforeDir="false" afterPath="$PROJECT_DIR$/기술/임시/순열.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/임시/조합 함수 (재귀로 한 거).py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/임시/조합 함수 (재귀로 한 거).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/임시/조합 함수.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/임시/조합 함수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/조합.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/조합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/중복순열.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/중복순열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/중복조합.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/중복조합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색_trie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색.txt" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599542204391</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="가사 검색 문제">
+      <created>1599569992445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599569992445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,33 +223,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
     <MESSAGE value="git init 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="git init 2" />
+    <MESSAGE value="가사 검색 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="가사 검색 문제" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599543857526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599543857526" />
+    <state x="639" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599811955287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="639" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599811955287" />
     <state x="802" y="425" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1599555452202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="802" y="425" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599555452202" />
-    <state width="1897" height="281" key="GridCell.Tab.0.bottom" timestamp="1599569668964">
+    <state width="948" height="281" key="GridCell.Tab.0.bottom" timestamp="1599570057912">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599569668964" />
-    <state width="1897" height="281" key="GridCell.Tab.0.center" timestamp="1599569668964">
+    <state width="948" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599570057912" />
+    <state width="948" height="281" key="GridCell.Tab.0.center" timestamp="1599570057912">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599569668964" />
-    <state width="1897" height="281" key="GridCell.Tab.0.left" timestamp="1599569668964">
+    <state width="948" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599570057912" />
+    <state width="948" height="281" key="GridCell.Tab.0.left" timestamp="1599570057912">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599569668964" />
-    <state width="1897" height="281" key="GridCell.Tab.0.right" timestamp="1599569668964">
+    <state width="948" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599570057912" />
+    <state width="948" height="281" key="GridCell.Tab.0.right" timestamp="1599570057912">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599569668964" />
+    <state width="948" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599570057912" />
     <state width="1897" height="347" key="GridCell.Tab.1.bottom" timestamp="1599545187190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -280,10 +275,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="460" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599540562734" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599542210981">
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599569997627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599542210981" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599569997627" />
     <state x="764" y="379" key="git4idea.rebase.GitRebaseDialog" timestamp="1599540870266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
