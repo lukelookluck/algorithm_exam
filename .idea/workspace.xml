@@ -13,7 +13,7 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:orgin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
     <select>
@@ -25,24 +25,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="git init 2">
-      <change afterPath="$PROJECT_DIR$/기술/Trie/Trie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색_효율성x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2학기 알고/09월09일/가능한 시험 점수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2학기 알고/09월09일/가능한 시험 점수.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/기둥과 보 설치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/기둥과 보 설치.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/블록 이동하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/오픈채팅방.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/외벽 점검.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/알고 문제.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/알고 문제.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/02월20일/배열 최소 합 by 승희.py" beforeDir="false" afterPath="$PROJECT_DIR$/1학기 알고/02월20일/배열 최소 합 by 승희.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/Bfs, Dfs/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/Bfs, Dfs/BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/부분집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/부분집합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/순열_백트래킹.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/순열_백트래킹.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/순열_재귀(백트래킹보다 빠름).py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/순열_재귀(백트래킹보다 빠름).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/임시/배열 최소 합(순열로 한 거).py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/임시/배열 최소 합(순열로 한 거).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/임시/순열.txt" beforeDir="false" afterPath="$PROJECT_DIR$/기술/임시/순열.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/임시/조합 함수 (재귀로 한 거).py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/임시/조합 함수 (재귀로 한 거).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/임시/조합 함수.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/임시/조합 함수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/조합.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/조합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/중복순열.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/중복순열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1학기 알고/기술/중복조합.py" beforeDir="false" afterPath="$PROJECT_DIR$/기술/중복조합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색_trie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색.txt" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1학기 알고/03월04일/요리사.py" beforeDir="false" afterPath="$PROJECT_DIR$/1학기 알고/03월04일/요리사.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1학기 알고/03월06일/가능한 시험 점수(부분집합).py" beforeDir="false" afterPath="$PROJECT_DIR$/1학기 알고/03월06일/가능한 시험 점수(부분집합).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +59,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2학기/3번쩨/ai" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -75,20 +68,20 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.가사 검색_trie">
-    <configuration name="가사 검색_trie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Unnamed">
+    <configuration name="기둥과 보 설치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고 문제" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\multicampus\임시\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오 기출" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색_trie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오 기출/기둥과 보 설치.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,19 +90,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="가사 검색_효율성x" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="외벽 점검" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고 문제" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\multicampus\임시\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오 기출" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\YU\싸피\알고 문제\프로그래머스\카카오 기출\가사 검색_효율성x.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오 기출/외벽 점검.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,19 +111,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Trie (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="블록 이동하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고 문제" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기술/Trie" />
+      <option name="SDK_HOME" value="C:\Users\multicampus\임시\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오 기출" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기술/Trie/Trie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오 기출/블록 이동하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,19 +132,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Trie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="가능한 시험 점수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고 문제" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기술" />
+      <option name="SDK_HOME" value="C:\Users\multicampus\임시\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2학기 알고/09월09일" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\YU\싸피\알고 문제\기술\Trie\Trie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2학기 알고/09월09일/가능한 시험 점수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,12 +153,100 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="요리사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고 문제" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\임시\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1학기 알고/03월04일" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1학기 알고/03월04일/요리사.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="알고 문제" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\임시\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="오픈채팅방" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고 문제" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\임시\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오 기출" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오 기출/오픈채팅방.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="알고 문제" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\임시\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.가능한 시험 점수" />
+      <item itemvalue="Python.요리사" />
+      <item itemvalue="Python.외벽 점검" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.가사 검색_trie" />
-        <item itemvalue="Python.Trie (1)" />
-        <item itemvalue="Python.Trie" />
-        <item itemvalue="Python.가사 검색_효율성x" />
+        <item itemvalue="Python.외벽 점검" />
+        <item itemvalue="Python.요리사" />
       </list>
     </recent_temporary>
   </component>
@@ -236,57 +317,73 @@
     <option name="LAST_COMMIT_MESSAGE" value="git init 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599543857526">
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599634113218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599543857526" />
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599634113218" />
+    <state x="712" y="389" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599633503488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="389" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599633503488" />
     <state x="802" y="425" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1599555452202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="802" y="425" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599555452202" />
-    <state width="1897" height="281" key="GridCell.Tab.0.bottom" timestamp="1599569668964">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1600760629201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599569668964" />
-    <state width="1897" height="281" key="GridCell.Tab.0.center" timestamp="1599569668964">
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600760629201" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1600129420053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599569668964" />
-    <state width="1897" height="281" key="GridCell.Tab.0.left" timestamp="1599569668964">
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600129420053" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1600129420053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599569668964" />
-    <state width="1897" height="281" key="GridCell.Tab.0.right" timestamp="1599569668964">
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600129420053" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1600129420053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599569668964" />
-    <state width="1897" height="347" key="GridCell.Tab.1.bottom" timestamp="1599545187190">
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600129420053" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1600129420053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599545187190" />
-    <state width="1897" height="347" key="GridCell.Tab.1.center" timestamp="1599545187190">
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600129420053" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1600129420054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599545187190" />
-    <state width="1897" height="347" key="GridCell.Tab.1.left" timestamp="1599545187190">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600129420054" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1600129420054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599545187190" />
-    <state width="1897" height="347" key="GridCell.Tab.1.right" timestamp="1599545187190">
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600129420054" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1600129420054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599545187190" />
-    <state x="460" y="163" key="SettingsEditor" timestamp="1599540562734">
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600129420054" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1600129420054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="460" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599540562734" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600129420054" />
+    <state x="362" y="212" key="SettingsEditor" timestamp="1599634201102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="212" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599634201102" />
     <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599542210981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599542210981" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1599656552026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1599656552026" />
     <state x="764" y="379" key="git4idea.rebase.GitRebaseDialog" timestamp="1599540870266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="379" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599540870266" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599656508473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599656508473" />
   </component>
 </project>

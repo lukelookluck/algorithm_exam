@@ -19,13 +19,16 @@ for tc in range(T):
     N = int(input())
     digits = list(map(int, input().split()))
     used = [0] * (sum(digits) + 1)
+    print(len(used))
     used[0] = 1
     count = 1
     for i in digits:
         for j in range(len(used)-1, -1, -1):
+            print(j)
             if used[j] == 1 and used[i + j] != 1:
                 used[i + j] = 1
                 count += 1
+            print(used)
 
     print("#{} {}".format(tc+1, count))
 
