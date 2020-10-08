@@ -18,6 +18,7 @@ def solution(n, edge):
     while pq.qsize() > 0:
         pq_get = pq.get() # pq에서 하나 꺼내기
 
+
         if pq_get[0] == 99999: # 해당 노드의 1번 노드로부터 떨어진 거리가 유효하면
             break
 
