@@ -1,9 +1,9 @@
 import sys
 sys.stdin = open('요리사.txt')
 
-def combination(n, k, a, b):
+def combination(n, N, a, b):
     global no_dab_A, no_dab_B, my_min
-    if n == k:
+    if n == N:
         for i in A:
             for j in A:
                 no_dab_A += arr[i][j]
@@ -15,15 +15,15 @@ def combination(n, k, a, b):
         no_dab_A, no_dab_B = 0, 0
         return
     else:
-        if a < k // 2:
+        if a < N // 2:
             A.append(n)
             # no_dab_A += arr[n][n]
-            combination(n+1, k, a+1, b)
+            combination(n+1, N, a+1, b)
             A.pop()
-        if b < k // 2:
+        if b < N // 2:
             B.append(n)
             # no_dab_B += arr[n][n]
-            combination(n+1, k, a, b+1)
+            combination(n+1, N, a, b+1)
             B.pop()
 
 

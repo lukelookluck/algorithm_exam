@@ -10,7 +10,7 @@ def printarr(n):
 
 def perm(n, k):
     if k == n:
-        printarr(n)
+        print(arr)
     else:
         for i in range(k, n):
             arr[k], arr[i] = arr[i], arr[k]
@@ -18,7 +18,7 @@ def perm(n, k):
             arr[k], arr[i] = arr[i], arr[k]
 
 
-arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+arr = [1, 2, 3, 4]
 t = [0] * 4
 cnt = 0
 perm(4, 0)
