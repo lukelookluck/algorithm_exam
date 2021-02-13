@@ -19,24 +19,21 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:orgin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="가사 검색 문제">
-      <change afterPath="$PROJECT_DIR$/라인 코테/문제1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/라인 코테/문제2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/라인 코테/문제3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/라인 코테/문제5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/카카오 2021 블라인드 1차/문제1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/카카오 2021 블라인드 1차/문제2 반만 맞음.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/카카오 2021 블라인드 1차/문제3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코테 11번가/문제 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코테 11번가/문제 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코테 11번가/문제 3.py" afterDir="false" />
+    <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="git init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/라인 코테/문제1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/라인 코테/문제2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/라인 코테/문제3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/라인 코테/문제5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/코테 11번가/문제 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/코테 11번가/문제 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/코테 11번가/문제 3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -72,20 +69,20 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.가사 검색_효율성x">
-    <configuration name="문제 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고 문제" />
+  <component name="RunManager" selected="Python.1655 가운데를 말해요">
+    <configuration name="11279 최대힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/코테 11번가" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코테 11번가/문제 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11279 최대힙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,19 +91,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="문제 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고 문제" />
+    <configuration name="11286 절대값 힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/코테 11번가" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코테 11번가/문제 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11286 절대값 힙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,19 +112,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="문제 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고 문제" />
+    <configuration name="1655 가운데를 말해요" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/코테 11번가" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코테 11번가/문제 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1655 가운데를 말해요.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,19 +133,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="가사 검색_효율성x" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고 문제" />
+    <configuration name="17298 오큰수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/카카오 기출" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/카카오 기출/가사 검색_효율성x.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/17298 오큰수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,61 +154,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="전기버스2_교수님꺼보다 빠름" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고 문제" />
+    <configuration name="1927 최소 힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1학기 알고/05월15일_백트래킹" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1학기 알고/05월15일_백트래킹/전기버스2_교수님꺼보다 빠름.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="부분집합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고 문제" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기술" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기술/부분집합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="후보키" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고 문제" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/후보키.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1927 최소 힙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.가사 검색_효율성x" />
-        <item itemvalue="Python.문제 3" />
-        <item itemvalue="Python.문제 2" />
-        <item itemvalue="Python.문제 1" />
-        <item itemvalue="Python.전기버스2_교수님꺼보다 빠름" />
+        <item itemvalue="Python.1655 가운데를 말해요" />
+        <item itemvalue="Python.11286 절대값 힙" />
+        <item itemvalue="Python.1927 최소 힙" />
+        <item itemvalue="Python.11279 최대힙" />
+        <item itemvalue="Python.17298 오큰수" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +191,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="" />
-      <changelist id="" name="가사 검색 문제" comment="" />
       <created>1599540279998</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -270,7 +224,42 @@
       <option name="project" value="LOCAL" />
       <updated>1601346992064</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="가사 검색 문제">
+      <created>1613233172361</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613233172361</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git init">
+      <created>1613233968117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613233968117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git init">
+      <created>1613235820010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613235820010</updated>
+    </task>
+    <task id="LOCAL-00008" summary="git init">
+      <created>1613235835760</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613235835761</updated>
+    </task>
+    <task id="LOCAL-00009" summary="git init">
+      <created>1613236081293</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613236081293</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,6 +276,13 @@
               <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="roots">
                     <value>
                       <list>
@@ -301,19 +297,7 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -326,87 +310,86 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="git init" />
     <MESSAGE value="git init 2" />
     <MESSAGE value="가사 검색 문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="가사 검색 문제" />
+    <MESSAGE value="git init" />
+    <option name="LAST_COMMIT_MESSAGE" value="git init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599543857526">
+    <state x="826" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610510046102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599543857526" />
-    <state x="706" y="354" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599812175420">
+    <state x="826" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610510046102" />
+    <state x="1259" y="412" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1610175172166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="706" y="354" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599812175420" />
-    <state x="639" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599811955287">
+    <state x="1259" y="412" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610175172166" />
+    <state x="846" y="277" key="FileChooserDialogImpl" timestamp="1610510091544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="639" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599811955287" />
-    <state x="802" y="425" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1599555452202">
+    <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
+    <state width="934" height="240" key="GridCell.Tab.0.bottom" timestamp="1612970434697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="802" y="425" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599555452202" />
-    <state x="183" y="85" key="DiffContextDialog" timestamp="1601346866141">
+    <state width="934" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612970434697" />
+    <state width="934" height="240" key="GridCell.Tab.0.center" timestamp="1612970434697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="183" y="85" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601346866141" />
-    <state width="1897" height="284" key="GridCell.Tab.0.bottom" timestamp="1601346727531">
+    <state width="934" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612970434697" />
+    <state width="934" height="240" key="GridCell.Tab.0.left" timestamp="1612970434697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601346727531" />
-    <state width="1897" height="284" key="GridCell.Tab.0.center" timestamp="1601346727531">
+    <state width="934" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612970434697" />
+    <state width="934" height="240" key="GridCell.Tab.0.right" timestamp="1612970434697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601346727531" />
-    <state width="1897" height="284" key="GridCell.Tab.0.left" timestamp="1601346727531">
+    <state width="934" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612970434697" />
+    <state width="934" height="339" key="GridCell.Tab.1.bottom" timestamp="1612888538242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601346727531" />
-    <state width="1897" height="284" key="GridCell.Tab.0.right" timestamp="1601346727531">
+    <state width="934" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612888538242" />
+    <state width="934" height="339" key="GridCell.Tab.1.center" timestamp="1612888538242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601346727531" />
-    <state width="934" height="342" key="GridCell.Tab.1.bottom" timestamp="1599969445309">
+    <state width="934" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612888538242" />
+    <state width="934" height="339" key="GridCell.Tab.1.left" timestamp="1612888538242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599969445309" />
-    <state width="934" height="342" key="GridCell.Tab.1.center" timestamp="1599969445309">
+    <state width="934" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612888538242" />
+    <state width="934" height="339" key="GridCell.Tab.1.right" timestamp="1612888538242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599969445309" />
-    <state width="934" height="342" key="GridCell.Tab.1.left" timestamp="1599969445309">
+    <state width="934" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612888538242" />
+    <state x="568" y="167" key="SettingsEditor" timestamp="1610510096274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599969445309" />
-    <state width="934" height="342" key="GridCell.Tab.1.right" timestamp="1599969445309">
+    <state x="568" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610510096274" />
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1613236092386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599969445309" />
-    <state x="700" y="172" key="SettingsEditor" timestamp="1599812167306">
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613236092386" />
+    <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610361999721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="700" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599812167306" />
-    <state x="806" y="432" key="VCS.ChangelistChooser" timestamp="1601346908535">
+    <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610361999721" />
+    <state x="1148" y="78" width="584" height="891" key="find.popup" timestamp="1609949204693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="806" y="432" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601346908535" />
-    <state x="852" y="433" key="VCS.EditChangelistDialog" timestamp="1601346966450">
+    <state x="1148" y="78" width="584" height="891" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609949204693" />
+    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup" timestamp="1612955208435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="852" y="433" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601346966450" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601347122820">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601347122820" />
-    <state x="764" y="379" key="git4idea.rebase.GitRebaseDialog" timestamp="1599540870266">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="764" y="379" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599540870266" />
-    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1601343679793">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601343679793" />
+    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612955208435" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
