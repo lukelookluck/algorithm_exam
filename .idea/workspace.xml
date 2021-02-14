@@ -26,14 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="git init">
+      <change afterPath="$PROJECT_DIR$/백준/1021 회전하는 큐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/10866 덱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/11866 요세푸스 문제 0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/18258 큐 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/1966 프린터 큐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/2164 카드2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/5430 AC.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/라인 코테/문제1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/라인 코테/문제2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/라인 코테/문제3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/라인 코테/문제5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/코테 11번가/문제 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/코테 11번가/문제 2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/코테 11번가/문제 3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +69,8 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1655 가운데를 말해요">
-    <configuration name="11279 최대힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5430 AC">
+    <configuration name="1021 회전하는 큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11279 최대힙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1021 회전하는 큐.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11286 절대값 힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10866 덱" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11286 절대값 힙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/10866 덱.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1655 가운데를 말해요" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11866 요세푸스 문제 0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1655 가운데를 말해요.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11866 요세푸스 문제 0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17298 오큰수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1966 프린터 큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/17298 오큰수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1966 프린터 큐.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1927 최소 힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5430 AC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1927 최소 힙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/5430 AC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1655 가운데를 말해요" />
-        <item itemvalue="Python.11286 절대값 힙" />
-        <item itemvalue="Python.1927 최소 힙" />
-        <item itemvalue="Python.11279 최대힙" />
-        <item itemvalue="Python.17298 오큰수" />
+        <item itemvalue="Python.5430 AC" />
+        <item itemvalue="Python.1021 회전하는 큐" />
+        <item itemvalue="Python.10866 덱" />
+        <item itemvalue="Python.1966 프린터 큐" />
+        <item itemvalue="Python.11866 요세푸스 문제 0" />
       </list>
     </recent_temporary>
   </component>
@@ -276,13 +276,6 @@
               <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
                   <entry key="roots">
                     <value>
                       <list>
@@ -320,46 +313,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="826" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610510046102" />
-    <state x="1259" y="412" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1610175172166">
+    <state x="1259" y="412" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1613317732891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1259" y="412" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610175172166" />
+    <state x="1259" y="412" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613317732891" />
     <state x="846" y="277" key="FileChooserDialogImpl" timestamp="1610510091544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
-    <state width="934" height="240" key="GridCell.Tab.0.bottom" timestamp="1612970434697">
+    <state width="934" height="244" key="GridCell.Tab.0.bottom" timestamp="1613321485332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612970434697" />
-    <state width="934" height="240" key="GridCell.Tab.0.center" timestamp="1612970434697">
+    <state width="934" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613321485332" />
+    <state width="934" height="244" key="GridCell.Tab.0.center" timestamp="1613321485331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612970434697" />
-    <state width="934" height="240" key="GridCell.Tab.0.left" timestamp="1612970434697">
+    <state width="934" height="244" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613321485331" />
+    <state width="934" height="244" key="GridCell.Tab.0.left" timestamp="1613321485331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612970434697" />
-    <state width="934" height="240" key="GridCell.Tab.0.right" timestamp="1612970434697">
+    <state width="934" height="244" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613321485331" />
+    <state width="934" height="244" key="GridCell.Tab.0.right" timestamp="1613321485332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612970434697" />
-    <state width="934" height="339" key="GridCell.Tab.1.bottom" timestamp="1612888538242">
+    <state width="934" height="244" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613321485332" />
+    <state width="934" height="341" key="GridCell.Tab.1.bottom" timestamp="1613321241456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612888538242" />
-    <state width="934" height="339" key="GridCell.Tab.1.center" timestamp="1612888538242">
+    <state width="934" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613321241456" />
+    <state width="934" height="341" key="GridCell.Tab.1.center" timestamp="1613321241456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612888538242" />
-    <state width="934" height="339" key="GridCell.Tab.1.left" timestamp="1612888538242">
+    <state width="934" height="341" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613321241456" />
+    <state width="934" height="341" key="GridCell.Tab.1.left" timestamp="1613321241456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612888538242" />
-    <state width="934" height="339" key="GridCell.Tab.1.right" timestamp="1612888538242">
+    <state width="934" height="341" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613321241456" />
+    <state width="934" height="341" key="GridCell.Tab.1.right" timestamp="1613321241456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612888538242" />
+    <state width="934" height="341" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613321241456" />
     <state x="568" y="167" key="SettingsEditor" timestamp="1610510096274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -376,10 +369,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1148" y="78" width="584" height="891" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609949204693" />
-    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup" timestamp="1612955208435">
+    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup" timestamp="1613313873452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612955208435" />
+    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613313873452" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
