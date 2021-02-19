@@ -2,8 +2,7 @@ import sys
 
 
 def solution():
-    my_d = []
-    my_d.append((0, 0, 1))
+    my_d = [(0, 0, 1)]
     check[0][0] = 1
     ans = 1
 

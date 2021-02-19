@@ -7,11 +7,9 @@ M = int(sys.stdin.readline().strip())
 M_data = list(map(int, sys.stdin.readline().split()))
 
 A.sort()
-print(A)
+
 for m in M_data:
     i = bisect(A, m) - 1
-    # print(i)
-    # print(A[i])
     if i != len(A) and A[i] == m:
         print(1)
     else:
