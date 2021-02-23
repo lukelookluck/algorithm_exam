@@ -26,8 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
-      <change afterPath="$PROJECT_DIR$/백준/10844 쉬운 계단 수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/1463 1로 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/11053 가장 긴 증가하는 부분 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/1149 RGB거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/1904 01타일.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/1932 정수 삼각형.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/2579 계단 오르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/9461 파도반 수열.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +68,8 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1463 1로 만들기">
-    <configuration name="10844 쉬운 계단 수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2579 계단 오르기">
+    <configuration name="11053 가장 긴 증가하는 부분 수열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/10844 쉬운 계단 수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11053 가장 긴 증가하는 부분 수열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12865 평범한 배낭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1149 RGB거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/12865 평범한 배낭.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1149 RGB거리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1463 1로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1932 정수 삼각형" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1463 1로 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1932 정수 삼각형.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1697 숨바꼭질" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2579 계단 오르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1697 숨바꼭질.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/2579 계단 오르기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7562 나이트의 이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9461 파도반 수열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/7562 나이트의 이동.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/9461 파도반 수열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1463 1로 만들기" />
-        <item itemvalue="Python.10844 쉬운 계단 수" />
-        <item itemvalue="Python.12865 평범한 배낭" />
-        <item itemvalue="Python.7562 나이트의 이동" />
-        <item itemvalue="Python.1697 숨바꼭질" />
+        <item itemvalue="Python.2579 계단 오르기" />
+        <item itemvalue="Python.11053 가장 긴 증가하는 부분 수열" />
+        <item itemvalue="Python.1932 정수 삼각형" />
+        <item itemvalue="Python.1149 RGB거리" />
+        <item itemvalue="Python.9461 파도반 수열" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613918140022</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="today's solved coding exam">
+      <created>1613921523869</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1613921523869</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,46 +370,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
-    <state width="934" height="240" key="GridCell.Tab.0.bottom" timestamp="1613921270183">
+    <state width="934" height="240" key="GridCell.Tab.0.bottom" timestamp="1614091816153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613921270183" />
-    <state width="934" height="240" key="GridCell.Tab.0.center" timestamp="1613921270183">
+    <state width="934" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614091816153" />
+    <state width="934" height="240" key="GridCell.Tab.0.center" timestamp="1614091816153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613921270183" />
-    <state width="934" height="240" key="GridCell.Tab.0.left" timestamp="1613921270183">
+    <state width="934" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614091816153" />
+    <state width="934" height="240" key="GridCell.Tab.0.left" timestamp="1614091816153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613921270183" />
-    <state width="934" height="240" key="GridCell.Tab.0.right" timestamp="1613921270183">
+    <state width="934" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614091816153" />
+    <state width="934" height="240" key="GridCell.Tab.0.right" timestamp="1614091816153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613921270183" />
-    <state width="934" height="337" key="GridCell.Tab.1.bottom" timestamp="1613917857524">
+    <state width="934" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614091816153" />
+    <state width="934" height="337" key="GridCell.Tab.1.bottom" timestamp="1614080172965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613917857524" />
-    <state width="934" height="337" key="GridCell.Tab.1.center" timestamp="1613917857524">
+    <state width="934" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614080172965" />
+    <state width="934" height="337" key="GridCell.Tab.1.center" timestamp="1614080172965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613917857524" />
-    <state width="934" height="337" key="GridCell.Tab.1.left" timestamp="1613917857524">
+    <state width="934" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614080172965" />
+    <state width="934" height="337" key="GridCell.Tab.1.left" timestamp="1614080172965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613917857524" />
-    <state width="934" height="337" key="GridCell.Tab.1.right" timestamp="1613917857524">
+    <state width="934" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614080172965" />
+    <state width="934" height="337" key="GridCell.Tab.1.right" timestamp="1614080172965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613917857524" />
+    <state width="934" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614080172965" />
     <state x="568" y="167" key="SettingsEditor" timestamp="1610510096274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610510096274" />
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1613918141459">
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1613921525462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613918141459" />
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613921525462" />
     <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610361999721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
