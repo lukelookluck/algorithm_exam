@@ -1,27 +1,27 @@
 import sys
 
-def solution(idx, mybool, result):
-    if idx >= n:
-        print('악',result)
-        return
-    # print(idx, mybool)
-    if mybool is True:
-        solution(idx+1, False, result + str(data[idx+1]))
-        solution(idx+2, True, result + str(data[idx+2]))
-    else:
-        solution(idx+3, True, result + str(data[idx+3]))
-        solution(idx+2, True, result + str(data[idx+2]))
+
+def solution():
+    for i in range(1, n+1):
+        if i == 1:
+            check[1] = data[1]
+        elif i == 2:
+            check[2] = data[1] + data[2]
+        else:
+            check[i] = max(
+                data[i] + data[i-1] + check[i-3],
+                data[i] + check[i-2],
+                check[i-1]
+            )
+
 
 
 n = int(sys.stdin.readline().strip())
-data = []
+data = [0]
+check = [0] * (n+1)
 
 for _ in range(n):
     data.append(int(sys.stdin.readline().strip()))
 
-data.append('aa')
-data.append('asdasd')
-data.append('zzz')
-
-solution(0, True, str(data[0]))
-solution(1, True, str(data[1]))
+solution()
+print(check[n])
