@@ -1,15 +1,20 @@
 import sys
 
 
-A, B, C = map(int, sys.stdin.readline().split())
-ans1 = A % C
+def solution(x, y):
+    if y == 1:
+        return x % C
 
-if C % 2:
-    print(ans1)
-else:
-    if ans1 == 1:
-        print(ans1)
     else:
-        print(1)
+        result = solution(x, y // 2)
+        if y % 2:
+            return result * result * x % C
+        else:
+            return result * result % C
 
-print(512 % 5)
+
+A, B, C = map(int, sys.stdin.readline().split())
+print(pow(A, B, C))
+print(solution(A, B))
+
+
