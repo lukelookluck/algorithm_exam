@@ -64,7 +64,7 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.임시3">
+  <component name="RunManager" selected="Python.1753 최단경로">
     <configuration name="12015 가장 긴 증가하는 부분 수열 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,8 +172,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.임시3" />
         <item itemvalue="Python.1753 최단경로" />
+        <item itemvalue="Python.임시3" />
         <item itemvalue="Python.12015 가장 긴 증가하는 부분 수열 2" />
         <item itemvalue="Python.1300 K번째 수" />
         <item itemvalue="Python.2805 나무 자르기" />
@@ -471,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615301406565</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="today's solved coding exam">
+      <created>1615302091216</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1615302091216</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -565,22 +572,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
-    <state width="1897" height="263" key="GridCell.Tab.0.bottom" timestamp="1615302082587">
+    <state width="934" height="263" key="GridCell.Tab.0.bottom" timestamp="1615302728649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615302082587" />
-    <state width="1897" height="263" key="GridCell.Tab.0.center" timestamp="1615302082587">
+    <state width="934" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615302728649" />
+    <state width="934" height="263" key="GridCell.Tab.0.center" timestamp="1615302728648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615302082587" />
-    <state width="1897" height="263" key="GridCell.Tab.0.left" timestamp="1615302082586">
+    <state width="934" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615302728648" />
+    <state width="934" height="263" key="GridCell.Tab.0.left" timestamp="1615302728648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615302082586" />
-    <state width="1897" height="263" key="GridCell.Tab.0.right" timestamp="1615302082587">
+    <state width="934" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615302728648" />
+    <state width="934" height="263" key="GridCell.Tab.0.right" timestamp="1615302728648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615302082587" />
+    <state width="934" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615302728648" />
     <state width="934" height="336" key="GridCell.Tab.1.bottom" timestamp="1615299967214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -601,10 +608,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614358333181" />
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1615301407981">
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1615302093017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615301407981" />
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615302093017" />
     <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614684196767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
