@@ -4,22 +4,16 @@ import sys
 def solution():
     check = [float('inf')] * (N + 1)
     check[1] = 0
-    for _ in range(N):
+    for n in range(1, N+1):
         for i in range(1, N+1):
-            for k, l in dist[i].items():
-                l += check[i]
-                if check[i] == float('inf'):
-                    continue
-                if check[k] > l:
-                    check[k] = l
-
-    for i in range(1, N+1):
-        for k, l in dist[i].items():
-            l += check[i]
             if check[i] == float('inf'):
                 continue
-            if check[k] > l:
-                return [-1]
+            for k, l in dist[i].items():
+                l += check[i]
+                if check[k] > l:
+                    if n == N:
+                        return [-1]
+                    check[k] = l
 
     return check[2:]
 
