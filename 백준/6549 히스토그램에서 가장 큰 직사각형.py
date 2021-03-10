@@ -1,12 +1,7 @@
 import sys
 
-while True:
-    data = list(map(int, sys.stdin.readline().split()))
-    n = data[0]
 
-    if n == 0:
-        break
-
+def solution(data):
     arr = data[1:]
     stack = []
     my_max = 0
@@ -23,3 +18,13 @@ while True:
         my_max = max(my_max, (n - idx) * h)
 
     print(my_max)
+
+
+while True:
+    data = list(map(int, sys.stdin.readline().split()))
+    n = data[0]
+
+    if n == 0:
+        break
+
+    solution(data)
