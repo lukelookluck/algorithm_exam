@@ -26,8 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
-      <change afterPath="$PROJECT_DIR$/백준/4195 친구 네트워크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/20040 사이클 게임.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/4195 친구 네트워크.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/4195 친구 네트워크.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,28 +65,7 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4195 친구 네트워크">
-    <configuration name="11657 타임머신" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11657 타임머신.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.20040 사이클 게임">
     <configuration name="1717 집합의 표현" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +100,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1976 여행 가자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20040 사이클 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/20040 사이클 게임.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20040 사이클 게임" />
         <item itemvalue="Python.4195 친구 네트워크" />
         <item itemvalue="Python.1976 여행 가자" />
         <item itemvalue="Python.1717 집합의 표현" />
         <item itemvalue="Python.6549 히스토그램에서 가장 큰 직사각형" />
-        <item itemvalue="Python.11657 타임머신" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00003" summary="가사 검색 문제">
-      <created>1601346851106</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1601346851106</updated>
     </task>
     <task id="LOCAL-00004" summary="가사 검색 문제">
       <created>1601346992064</created>
@@ -534,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615458641667</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="today's solved coding exam">
+      <created>1615467773307</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1615467773307</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,22 +629,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
-    <state width="934" height="261" key="GridCell.Tab.0.bottom" timestamp="1615466936717">
+    <state width="934" height="261" key="GridCell.Tab.0.bottom" timestamp="1615471984792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615466936717" />
-    <state width="934" height="261" key="GridCell.Tab.0.center" timestamp="1615466936717">
+    <state width="934" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615471984792" />
+    <state width="934" height="261" key="GridCell.Tab.0.center" timestamp="1615471984792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615466936717" />
-    <state width="934" height="261" key="GridCell.Tab.0.left" timestamp="1615466936717">
+    <state width="934" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615471984792" />
+    <state width="934" height="261" key="GridCell.Tab.0.left" timestamp="1615471984792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615466936717" />
-    <state width="934" height="261" key="GridCell.Tab.0.right" timestamp="1615466936717">
+    <state width="934" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615471984792" />
+    <state width="934" height="261" key="GridCell.Tab.0.right" timestamp="1615471984792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615466936717" />
+    <state width="934" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615471984792" />
     <state width="934" height="338" key="GridCell.Tab.1.bottom" timestamp="1615396929522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -664,10 +665,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614358333181" />
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1615458642615">
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1615467774242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615458642615" />
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615467774242" />
     <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614684196767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

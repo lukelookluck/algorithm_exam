@@ -13,8 +13,10 @@ def union(a, b):
     a, b = find(a), find(b)
 
     if a != b:
-        cnt[b] += cnt[a]
-        home[a] = b
+        cnt[a] += cnt[b]
+        home[b] = a
+
+    print(-cnt[a])
 
 
 T = int(sys.stdin.readline().strip())
@@ -34,4 +36,3 @@ for tc in range(T):
             cnt[b] = -1
 
         union(a, b)
-        print(abs(cnt[find(b)]))
