@@ -23,8 +23,6 @@ def union(a, b, idx):
         home[b] += home[a]
         home[a] = b
 
-    return True
-
 
 n, m = map(int, sys.stdin.readline().split())
 home = [-1] * n
