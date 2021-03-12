@@ -9,17 +9,6 @@ def find(x):
     return home[x]
 
 
-def union(a, b):
-    a, b = find(a), find(b)
-
-    if home[a] < home[b]:
-        home[a] += home[b]
-        home[b] = a
-    else:
-        home[b] += home[a]
-        home[a] = b
-
-
 V, E = map(int, sys.stdin.readline().split())
 home = [-1] * (V + 1)
 arr = []
@@ -33,12 +22,13 @@ arr.sort(key=lambda x: x[0])
 
 for i in range(E):
     weight, a, b = arr[i]
-    if find(a) != find(b):
-        union(a, b)
+    f_a, f_b = find(a), find(b)
+    if f_a != f_b:
+        home[f_b] = f_a
         answer += weight
         cnt += 1
 
-    if cnt == V-1:
-        break
+        if cnt == V-1:
+            break
 
 print(answer)
