@@ -15,9 +15,11 @@ def to_lps(pat):
     return lps
 
 
-def search(txt, pat, lps):
+def search(txt, pat):
     T, P = len(txt), len(pat)
+    lps = to_lps(pat)
     i, j = 0, 0
+    answer = []
 
     while i < T:
         if txt[i] == pat[j]:
@@ -32,13 +34,9 @@ def search(txt, pat, lps):
             answer.append(i - j + 1)
             j = lps[j-1]
 
+    return answer
 
-txt = input()
-pat = input()
-answer = []
 
-lps = to_lps(pat)
-
-search(txt, pat, lps)
-print(len(answer))
-print(*answer)
+a = search(input(), input())
+print(len(a))
+print(*a)
