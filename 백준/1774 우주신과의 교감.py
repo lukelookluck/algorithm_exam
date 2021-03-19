@@ -12,9 +12,7 @@ def find(x):
 
 def union(a, b):
     a, b = find(a), find(b)
-
-    if a != b:
-        home[b] = a
+    home[b] = a
 
 
 N, M = map(int, sys.stdin.readline().split())
@@ -26,7 +24,7 @@ answer, cnt = 0, 0
 for i in range(N):
     for j in range(i+1, N):
         weight = pow(pow(arr[i][0] - arr[j][0], 2) + pow(arr[i][1] - arr[j][1], 2), 0.5)
-        heappush(my_heap, [weight, i+1, j+1])
+        heappush(my_heap, (weight, i+1, j+1))
 
 for _ in range(M):
     x, y = map(int, sys.stdin.readline().split())
@@ -45,4 +43,4 @@ for i in range(len(my_heap)):
         if cnt == N-1:
             break
 
-print(format(round(answer, 2), ".2f"))
+print(format(answer, ".2f"))
