@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
+      <change afterPath="$PROJECT_DIR$/백준/17472 다리 만들기 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/2887 행성 터널.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/2887 행성 터널.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,28 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2887 행성 터널">
+  <component name="RunManager" selected="Python.17472 다리 만들기 2">
+    <configuration name="17472 다리 만들기 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/17472 다리 만들기 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1774 우주신과의 교감" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,27 +120,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/소마2차 2번.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="소마2차 3번" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/소마2차 3번.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17472 다리 만들기 2" />
         <item itemvalue="Python.2887 행성 터널" />
         <item itemvalue="Python.1774 우주신과의 교감" />
         <item itemvalue="Python.4386 별자리 만들기" />
         <item itemvalue="Python.소마2차 2번" />
-        <item itemvalue="Python.소마2차 3번" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00015" summary="today's solved coding exam">
-      <created>1613918140021</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1613918140022</updated>
     </task>
     <task id="LOCAL-00016" summary="today's solved coding exam">
       <created>1613921523869</created>
@@ -534,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616230432597</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="today's solved coding exam">
+      <created>1616230990017</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1616230990017</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,46 +628,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
-    <state width="1897" height="263" key="GridCell.Tab.0.bottom" timestamp="1616230903581">
+    <state width="934" height="265" key="GridCell.Tab.0.bottom" timestamp="1616248672223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616230903581" />
-    <state width="1897" height="263" key="GridCell.Tab.0.center" timestamp="1616230903580">
+    <state width="934" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616248672223" />
+    <state width="934" height="265" key="GridCell.Tab.0.center" timestamp="1616248672222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616230903580" />
-    <state width="1897" height="263" key="GridCell.Tab.0.left" timestamp="1616230903580">
+    <state width="934" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616248672222" />
+    <state width="934" height="265" key="GridCell.Tab.0.left" timestamp="1616248672222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616230903580" />
-    <state width="1897" height="263" key="GridCell.Tab.0.right" timestamp="1616230903581">
+    <state width="934" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616248672222" />
+    <state width="934" height="265" key="GridCell.Tab.0.right" timestamp="1616248672222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616230903581" />
-    <state width="934" height="338" key="GridCell.Tab.1.bottom" timestamp="1616174594761">
+    <state width="934" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616248672222" />
+    <state width="934" height="338" key="GridCell.Tab.1.bottom" timestamp="1616248634971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616174594761" />
-    <state width="934" height="338" key="GridCell.Tab.1.center" timestamp="1616174594761">
+    <state width="934" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616248634971" />
+    <state width="934" height="338" key="GridCell.Tab.1.center" timestamp="1616248634971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616174594761" />
-    <state width="934" height="338" key="GridCell.Tab.1.left" timestamp="1616174594761">
+    <state width="934" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616248634971" />
+    <state width="934" height="338" key="GridCell.Tab.1.left" timestamp="1616248634971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616174594761" />
-    <state width="934" height="338" key="GridCell.Tab.1.right" timestamp="1616174594761">
+    <state width="934" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616248634971" />
+    <state width="934" height="338" key="GridCell.Tab.1.right" timestamp="1616248634971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616174594761" />
+    <state width="934" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616248634971" />
     <state x="568" y="167" key="SettingsEditor" timestamp="1614358333181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614358333181" />
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1616230438268">
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1616230991234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616230438268" />
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616230991234" />
     <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614684196767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -676,10 +676,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1148" y="78" width="584" height="891" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609949204693" />
-    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup" timestamp="1616171619767">
+    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup" timestamp="1616238513068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616171619767" />
+    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616238513068" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
