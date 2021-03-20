@@ -11,21 +11,26 @@ def find(x):
 
 def union(a, b):
     a, b = find(a), find(b)
+
     if a != b:
-        home[b] = a
+        if home[a] < home[b]:
+            home[a] += home[b]
+            home[b] = a
+        else:
+            home[b] += home[a]
+            home[a] = b
 
 
 N = int(sys.stdin.readline().strip())
 arr = [list(map(int, sys.stdin.readline().split())) + [i] for i in range(N)]
-home = [-1] * (N + 1)
+home = [-1] * N
 my_heap = []
 answer, cnt = 0, 0
 
 for i in range(3):
     arr.sort(key=lambda x: x[i])
     for j in range(1, N):
-        weight = abs(arr[j][i] - arr[j-1][i])
-        heappush(my_heap, (weight, arr[j][3], arr[j-1][3]))
+        heappush(my_heap, (abs(arr[j][i] - arr[j-1][i]), arr[j][3], arr[j-1][3]))
 
 for _ in range(len(my_heap)):
     w, a, b = heappop(my_heap)
