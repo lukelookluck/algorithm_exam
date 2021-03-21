@@ -13,10 +13,9 @@ def to_lps(pat, L):
             else:
                 i += 1
 
-    return lps[-1]
+    print(L - lps[-1])
 
 
 L = int(input())
 pat = input()
-a = to_lps(pat, L)
-print(L - a)
+to_lps(pat, L)
