@@ -12,7 +12,7 @@ def to_lps(pat):
             i += 1
         else:
             if n != 0:
-                n = lps[n-1]
+                n = lps[n - 1]
             else:
                 i += 1
     return lps
@@ -21,21 +21,26 @@ def to_lps(pat):
 def search(text, pat):
     i, j = 0, 0
     lps = to_lps(pat)
+    cnt = 0
 
-    while i < 720000:
-        # print(i, j)
+    while cnt < 720000:
         if text[i] == pat[j]:
             i += 1
             j += 1
+
+            if j == 360000:
+                return True
+
         else:
             if j != 0:
-                j = lps[j-1]
+                j = lps[j - 1]
             else:
                 i += 1
 
-        if j == 360000:
-            return True
+        if i == 360000:
+            i = 0
 
+        cnt += 1
     return False
 
 
@@ -45,7 +50,6 @@ for x in map(int, sys.stdin.readline().split()):
     pat[x] = 1
 for x in map(int, sys.stdin.readline().split()):
     text[x] = 1
-text += text
 
 if search(text, pat):
     print('possible')
