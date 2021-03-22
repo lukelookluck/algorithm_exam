@@ -4,6 +4,7 @@ class Node():
     def __init__(self, key):
         self.key = key
         self.child = {}
+        self.cnt = 0
 
 
 class Trie():
@@ -11,40 +12,33 @@ class Trie():
         self.head = Node(None)
 
     def insert(self, mystr):
-        curr_node = self.head
+        cn = self.head
 
         for s in mystr:
-            if s not in curr_node.child:
-                curr_node.child[s] = Node(s)
-            curr_node = curr_node.child[s]
+            if s not in cn.child:
+                cn.child[s] = Node(s)
+            cn = cn.child[s]
+            cn.cnt += 1
+        cn.child[' '] = False
 
-    def inquiry(self, cnt, curr_node):
+    def inquiry(self, cnt, cn):
         global answer
-        if curr_node == None:
-            curr_node = self.head
-            if len(curr_node.child.keys()) == 1:
-                cnt += 1
-        if not len(curr_node.child.keys()):
-            answer += cnt
-        if len(curr_node.child.keys()) == 1:
-            for s in curr_node.child.values():
-                self.inquiry(cnt, s)
-        else:
-            for i, t in curr_node.child.items():
-                if i == ' ':
-                    self.inquiry(cnt, t)
-                else:
-                    self.inquiry(cnt+1, t)
+
+        for s in cn.child.keys():
+            if s != ' ':
+                if len(cn.child) > 1 or cnt == 0:
+                    answer += cn.child[s].cnt
+                self.inquiry(cnt+1, cn.child[s])
+
 
 try:
     while True:
         N = int(sys.stdin.readline())
         trie = Trie()
         for _ in range(N):
-            mystr = sys.stdin.readline().strip() + ' '
-            trie.insert(mystr)
+            trie.insert(sys.stdin.readline().strip())
         answer = 0
-        trie.inquiry(0, None)
+        trie.inquiry(0, trie.head)
         print(format(round(answer / N, 2), '.2f'))
 
 except:
