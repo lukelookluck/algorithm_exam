@@ -5,7 +5,7 @@ def solution(x, y):
     if y == 1:
         return x % key
     elif y % 2:
-        return solution(x**2 % key, y // 2) * x % key
+        return solution(x ** 2 % key, y // 2) * x % key
     else:
         return solution(x ** 2 % key, y // 2)
 
@@ -18,7 +18,9 @@ answer = 1
 temp = 1
 
 for i in range(K):
-    answer *= (N-i) % key
-    temp *= (K-i) % key
+    answer *= N-i
+    answer %= key
+    temp *= K-i
+    temp %= key
 
 print(solution(temp, key-2) * answer % key)
