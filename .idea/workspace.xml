@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
+      <change afterPath="$PROJECT_DIR$/백준/2630 색종이 만들기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/5670 휴대폰 자판.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/5670 휴대폰 자판.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5670 휴대폰 자판">
+  <component name="RunManager" selected="Python.2630 색종이 만들기">
     <configuration name="10266 시계 사진들" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1786 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2630 색종이 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1786 찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/2630 색종이 만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2630 색종이 만들기" />
         <item itemvalue="Python.5670 휴대폰 자판" />
         <item itemvalue="Python.10266 시계 사진들" />
         <item itemvalue="Python.1305 광고" />
         <item itemvalue="Python.4354 문자열 제곱" />
-        <item itemvalue="Python.1786 찾기" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00027" summary="today's solved coding exam">
-      <created>1614588269423</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1614588269423</updated>
     </task>
     <task id="LOCAL-00028" summary="today's solved coding exam">
       <created>1614684159714</created>
@@ -534,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616425994422</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="today's solved coding exam">
+      <created>1616437541057</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1616437541057</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,22 +628,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
-    <state width="934" height="262" key="GridCell.Tab.0.bottom" timestamp="1616436746325">
+    <state width="934" height="262" key="GridCell.Tab.0.bottom" timestamp="1616483071635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616436746325" />
-    <state width="934" height="262" key="GridCell.Tab.0.center" timestamp="1616436746325">
+    <state width="934" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616483071635" />
+    <state width="934" height="262" key="GridCell.Tab.0.center" timestamp="1616483071635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="262" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616436746325" />
-    <state width="934" height="262" key="GridCell.Tab.0.left" timestamp="1616436746325">
+    <state width="934" height="262" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616483071635" />
+    <state width="934" height="262" key="GridCell.Tab.0.left" timestamp="1616483071635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="262" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616436746325" />
-    <state width="934" height="262" key="GridCell.Tab.0.right" timestamp="1616436746325">
+    <state width="934" height="262" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616483071635" />
+    <state width="934" height="262" key="GridCell.Tab.0.right" timestamp="1616483071635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="262" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616436746325" />
+    <state width="934" height="262" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616483071635" />
     <state width="934" height="335" key="GridCell.Tab.1.bottom" timestamp="1616343998886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -664,10 +664,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614358333181" />
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1616425995284">
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1616437542296">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616425995284" />
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616437542296" />
     <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614684196767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
