@@ -24,3 +24,5 @@ for i in range(K):
     temp %= key
 
 print(solution(temp, key-2) * answer % key)
+# solution 함수 정의 없이 아래의 식만으로도 가능
+# print(pow(temp, key-2, key) * answer % key)
