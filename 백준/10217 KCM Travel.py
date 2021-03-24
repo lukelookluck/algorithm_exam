@@ -3,22 +3,17 @@ import sys
 
 def solution():
     check = [[float('inf')] * (M+1) for _ in range(N+1)]
-    # print(check)
-
     check[1][1] = 0
-    temp = [[0, 1]]
+    temp = [[0, 0, 1]]
 
     while temp:
-        print(temp)
-        print(*check, sep='\n')
-        d, idx = heappop(temp)
+        d, c, idx = heappop(temp)
         for k, l, m in dist[idx]:
+            l += c
             m += d
-            print(k, l, m)
             if M >= l and check[k][l] > m:
-                print('asdas')
                 check[k][l] = m
-                heappush(temp, [m, k])
+                heappush(temp, [m, l, k])
 
     return min(check[N])
 
@@ -32,12 +27,9 @@ for tc in range(T):
         u, v, c, d = map(int, sys.stdin.readline().split())
         dist[u].append([v, c, d])
 
-    print(dist)
     result = solution()
-    print(result)
-    # if result <= M:
-    #     print(result)
-    # else:
-    #     print('Poor KCM')
 
-
+    if result <= M:
+        print(result)
+    else:
+        print('Poor KCM')
