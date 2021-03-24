@@ -15,13 +15,16 @@ def solution():
         for k, l, m in dist[idx]:
             l += c
             m += d
-            if M >= l and check[k][l] > m:
-                for i in range(l, M+1):
-                    if check[k][i] > m:
-                        check[k][i] = m
-                    else:
-                        break
-                heappush(temp, (m, l, k))
+            if M < l or check[k][l] <= m:
+                continue
+            # 중복 줄이기 핵심
+            for i in range(l, M+1):
+                if check[k][i] > m:
+                    check[k][i] = m
+                else:
+                    break
+
+            heappush(temp, (m, l, k))
     return 'Poor KCM'
 
 
