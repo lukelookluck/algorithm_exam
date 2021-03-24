@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
+      <change afterPath="$PROJECT_DIR$/백준/11404 플로이드.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/11401 이항 계수 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/11401 이항 계수 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11401 이항 계수 3">
+  <component name="RunManager" selected="Python.11404 플로이드">
     <configuration name="11401 이항 계수 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +78,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11401 이항 계수 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11404 플로이드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11404 플로이드.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,34 +170,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5670 휴대폰 자판" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/5670 휴대폰 자판.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11404 플로이드" />
         <item itemvalue="Python.11401 이항 계수 3" />
         <item itemvalue="Python.1780 종이의 개수" />
         <item itemvalue="Python.1992 쿼드트리" />
         <item itemvalue="Python.2630 색종이 만들기" />
-        <item itemvalue="Python.5670 휴대폰 자판" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00033" summary="today's solved coding exam">
-      <created>1614954084722</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1614954084722</updated>
     </task>
     <task id="LOCAL-00034" summary="today's solved coding exam">
       <created>1614955165362</created>
@@ -534,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616508410822</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="today's solved coding exam">
+      <created>1616509342585</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1616509342585</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,46 +628,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
-    <state width="1897" height="264" key="GridCell.Tab.0.bottom" timestamp="1616508597798">
+    <state width="934" height="264" key="GridCell.Tab.0.bottom" timestamp="1616578507513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616508597798" />
-    <state width="1897" height="264" key="GridCell.Tab.0.center" timestamp="1616508597798">
+    <state width="934" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616578507513" />
+    <state width="934" height="264" key="GridCell.Tab.0.center" timestamp="1616578507513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616508597798" />
-    <state width="1897" height="264" key="GridCell.Tab.0.left" timestamp="1616508597798">
+    <state width="934" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616578507513" />
+    <state width="934" height="264" key="GridCell.Tab.0.left" timestamp="1616578507513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616508597798" />
-    <state width="1897" height="264" key="GridCell.Tab.0.right" timestamp="1616508597798">
+    <state width="934" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616578507513" />
+    <state width="934" height="264" key="GridCell.Tab.0.right" timestamp="1616578507513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616508597798" />
-    <state width="934" height="337" key="GridCell.Tab.1.bottom" timestamp="1616500689866">
+    <state width="934" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616578507513" />
+    <state width="934" height="337" key="GridCell.Tab.1.bottom" timestamp="1616509351590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616500689866" />
-    <state width="934" height="337" key="GridCell.Tab.1.center" timestamp="1616500689866">
+    <state width="934" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616509351590" />
+    <state width="934" height="337" key="GridCell.Tab.1.center" timestamp="1616509351590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616500689866" />
-    <state width="934" height="337" key="GridCell.Tab.1.left" timestamp="1616500689866">
+    <state width="934" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616509351590" />
+    <state width="934" height="337" key="GridCell.Tab.1.left" timestamp="1616509351590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616500689866" />
-    <state width="934" height="337" key="GridCell.Tab.1.right" timestamp="1616500689866">
+    <state width="934" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616509351590" />
+    <state width="934" height="337" key="GridCell.Tab.1.right" timestamp="1616509351590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616500689866" />
+    <state width="934" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616509351590" />
     <state x="568" y="167" key="SettingsEditor" timestamp="1616503916603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616503916603" />
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1616508411819">
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1616509343488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616508411819" />
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616509343488" />
     <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614684196767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
