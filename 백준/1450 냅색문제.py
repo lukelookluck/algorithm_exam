@@ -1,42 +1,42 @@
 from bisect import bisect_left
+import sys
 
 
-def a_brute_force(l, w):
-    if l >= len(a_weight):
-        a_sum.append(w)
-        return
+N, C = map(int, sys.stdin.readline().split())
+things = list(map(int, sys.stdin.readline().split()))
 
-    a_brute_force(l + 1, w)
-    a_brute_force(l + 1, w + a_weight[l])
+data1 = [0]
+data2 = [0]
 
+if N % 2:
+    for i in range(N // 2):
+        temp = []
+        for x in data1:
+            temp.append(things[i] + x)
+        data1 += temp
 
-def b_brute_force(l, w):
-    if l >= len(b_weight):
-        b_sum.append(w)
-        return
+    for i in range(N // 2, N):
+        temp = []
+        for x in data2:
+            temp.append(things[i] + x)
+        data2 += temp
+else:
+    for i in range(N // 2):
+        temp = []
+        for x in data1:
+            temp.append(things[i] + x)
+        data1 += temp
 
-    b_brute_force(l + 1, w)
-    b_brute_force(l + 1, w + b_weight[l])
+        temp = []
+        for x in data2:
+            temp.append(things[N // 2 + i] + x)
+        data2 += temp
 
-
-n, c = map(int, input().split())
-weight = list(map(int, input().split()))
+data2.sort()
 answer = 0
 
-a_weight = weight[:n // 2]
-b_weight = weight[n // 2:]
-
-a_sum = []
-b_sum = []
-
-a_brute_force(0, 0)
-b_brute_force(0, 0)
-
-b_sum.sort()
-
-for i in a_sum:
-    if c - i < 0:
-        continue
-    answer += bisect_left(b_sum, c - i + 1)
+for x in data1:
+    if C - x >= 0:
+        answer += bisect_left(data2, C - x + 1)
 
 print(answer)
