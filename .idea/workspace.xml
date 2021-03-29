@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
+      <change afterPath="$PROJECT_DIR$/백준/1644 소수의 연속합.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/1806 부분합.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/1806 부분합.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +64,8 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1806 부분합">
-    <configuration name="10217 KCM Travel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1644 소수의 연속합">
+    <configuration name="임시" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +77,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/10217 KCM Travel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/임시.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1644 소수의 연속합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1644 소수의 연속합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,27 +120,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1806 부분합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1956 운동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/1956 운동.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1644 소수의 연속합" />
+        <item itemvalue="Python.임시" />
         <item itemvalue="Python.1806 부분합" />
         <item itemvalue="Python.2470 두 용액" />
         <item itemvalue="Python.3273 두 수의 합" />
-        <item itemvalue="Python.1956 운동" />
-        <item itemvalue="Python.10217 KCM Travel" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00046" summary="today's solved coding exam">
-      <created>1615379041699</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1615379041699</updated>
     </task>
     <task id="LOCAL-00047" summary="today's solved coding exam">
       <created>1615379064022</created>
@@ -534,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617020357081</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="today's solved coding exam">
+      <created>1617021110348</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1617021110348</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,22 +628,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
-    <state width="934" height="265" key="GridCell.Tab.0.bottom" timestamp="1617020823169">
+    <state width="934" height="265" key="GridCell.Tab.0.bottom" timestamp="1617024994705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617020823169" />
-    <state width="934" height="265" key="GridCell.Tab.0.center" timestamp="1617020823165">
+    <state width="934" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617024994705" />
+    <state width="934" height="265" key="GridCell.Tab.0.center" timestamp="1617024994705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617020823165" />
-    <state width="934" height="265" key="GridCell.Tab.0.left" timestamp="1617020823165">
+    <state width="934" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617024994705" />
+    <state width="934" height="265" key="GridCell.Tab.0.left" timestamp="1617024994704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617020823165" />
-    <state width="934" height="265" key="GridCell.Tab.0.right" timestamp="1617020823168">
+    <state width="934" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617024994704" />
+    <state width="934" height="265" key="GridCell.Tab.0.right" timestamp="1617024994705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617020823168" />
+    <state width="934" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617024994705" />
     <state width="934" height="337" key="GridCell.Tab.1.bottom" timestamp="1617018828744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -664,10 +664,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616503916603" />
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1617020358299">
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1617021111432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617020358299" />
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617021111432" />
     <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614684196767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -676,10 +676,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1148" y="78" width="584" height="891" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609949204693" />
-    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup" timestamp="1616487236234">
+    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup" timestamp="1617024527456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616487236234" />
+    <state x="1103" y="230" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617024527456" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
