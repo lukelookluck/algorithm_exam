@@ -4,7 +4,7 @@ N, S = map(int, sys.stdin.readline().split())
 data = list(map(int, sys.stdin.readline().split())) + [0]
 start, end = 0, 1
 answer = float('inf')
-temp = data[start]
+temp = data[0]
 
 while start < end < N+1:
     if temp >= S:
