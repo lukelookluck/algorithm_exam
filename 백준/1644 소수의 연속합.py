@@ -6,10 +6,7 @@ def check(digit):
 
     for i in range(2, int(digit ** 0.5) + 1):
         if data[i]:
-            j = 2
-            while i * j <= digit:
-                data[i * j] = False
-                j += 1
+            data[2 * i::i] = [False] * ((digit - i) // i)
 
     return [i for i in range(2, digit + 1) if data[i]]
 
