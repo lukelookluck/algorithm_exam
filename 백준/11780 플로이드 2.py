@@ -26,16 +26,12 @@ for x in range(1, n+1):
                 check2[i][j] = x
 
 for i in range(1, n+1):
-    for j in range(1, n+1):
-        if check[i][j] == float('inf'):
-            print(0, end=' ')
-        else:
-            print(check[i][j], end=' ')
-    print()
+    check[i] = [k if k != float('inf') else 0 for k in check[i]]
+    print(*check[i][1:])
 
 for i in range(1, n+1):
     for j in range(1, n+1):
-        if check[i][j] == float('inf') or check[i][j] == 0:
+        if check[i][j] == 0:
             print(0)
         else:
             answer = [i] + find(i, j) + [j]
