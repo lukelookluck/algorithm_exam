@@ -22,6 +22,7 @@ print(solution())
 print(check[-1][-1])
 '''
 def solution():
+    answer = ''
     for i in range(len(str1)):
         temp = ''
         for j in range(len(str2)):
@@ -29,20 +30,18 @@ def solution():
                 temp = check[j]
             elif str1[i] == str2[j]:
                 check[j] = temp + str1[i]
-    return
+
+    for ck in check:
+        if len(answer) < len(ck):
+            answer = ck
+
+    if len(answer):
+        print(len(answer), answer, sep='\n')
+    else:
+        print(0)
 
 
 str1 = sys.stdin.readline().strip()
 str2 = sys.stdin.readline().strip()
 check = [''] * len(str2)
-answer = ''
 solution()
-
-for ck in check:
-    if len(answer) < len(ck):
-        answer = ck
-
-if len(answer):
-    print(len(answer), answer, sep='\n')
-else:
-    print(0)
