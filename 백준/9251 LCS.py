@@ -28,7 +28,6 @@ def solution():
                 temp = check[j]
             elif str1[i] == str2[j]:
                 check[j] = temp + 1
-        print(check)
     return max(check)
 
 
