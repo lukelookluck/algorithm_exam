@@ -1,6 +1,6 @@
 import sys
 
-
+'''
 def solution():
     for i in range(len(str1)):
         for j in range(len(str2)):
@@ -20,3 +20,23 @@ check = [[''] * (len(str2) + 1) for _ in range(len(str1) + 1)]
 
 print(solution())
 print(check[-1][-1])
+'''
+
+
+def solution():
+    for i in range(len(str1)):
+        temp = ''
+        for j in range(len(str2)):
+            if len(temp) < len(check[j]):
+                temp = check[j]
+            elif str1[i] == str2[j]:
+                check[j] = temp + str1[i]
+    return len(check[-1])
+
+
+str1 = sys.stdin.readline().strip()
+str2 = sys.stdin.readline().strip()
+check = [''] * len(str2)
+
+print(solution())
+print(check[-1])
