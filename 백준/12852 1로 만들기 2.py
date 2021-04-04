@@ -10,7 +10,7 @@ def solution1(N):
         if x == 1:
             print(len(x_list) - 1)
             print(*x_list)
-            sys.exit(-1)
+            sys.exit(0)
 
         if not x % 3 and check[x // 3] == -1:
             temp.append(x_list + [x // 3])
