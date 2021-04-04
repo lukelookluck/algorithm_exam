@@ -13,10 +13,13 @@ def solution1(N):
             sys.exit(0)
 
         if not x % 3 and check[x // 3] == -1:
+            check[x // 3] = 1
             temp.append(x_list + [x // 3])
         if not x % 2 and check[x // 2] == -1:
+            check[x // 2] = 1
             temp.append(x_list + [x // 2])
         if check[x - 1] == -1:
+            check[x - 1] = 1
             temp.append(x_list + [x - 1])
 
 
