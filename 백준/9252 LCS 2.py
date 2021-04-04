@@ -21,6 +21,7 @@ check = [[''] * (len(str2) + 1) for _ in range(len(str1) + 1)]
 print(solution())
 print(check[-1][-1])
 '''
+
 def solution():
     answer = ''
     for i in range(len(str1)):
