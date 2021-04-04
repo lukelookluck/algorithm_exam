@@ -1,31 +1,25 @@
+from collections import deque
 import sys
 
 
-def solution1(x, data, cnt):
-    global answer_cnt, answer
-    # print(x, data, cnt)
+def solution1(N):
+    temp = deque([[N]])
+    while temp:
+        x_list = temp.popleft()
+        x = x_list[-1]
+        if x == 1:
+            print(len(x_list) - 1)
+            print(*x_list)
+            sys.exit(-1)
 
-    if cnt >= answer_cnt:
-        return
-
-    if x == 1:
-        # print('??')
-        if answer_cnt > cnt:
-            answer_cnt = cnt
-            answer = data
-            # print(data)
-        return
-
-    if not x % 3:
-        solution1(x // 3, data + [x // 3], cnt + 1)
-    if not x % 2:
-        solution1(x // 2, data + [x // 2], cnt + 1)
-    solution1(x - 1, data + [x - 1], cnt + 1)
+        if not x % 3 and check[x // 3] == -1:
+            temp.append(x_list + [x // 3])
+        if not x % 2 and check[x // 2] == -1:
+            temp.append(x_list + [x // 2])
+        if check[x - 1] == -1:
+            temp.append(x_list + [x - 1])
 
 
 N = int(sys.stdin.readline().strip())
-answer_cnt = 1000000
-answer = []
-solution1(N, [N], 0)
-print(answer_cnt)
-print(*answer)
+check = [-1] * (N+1)
+solution1(N)
