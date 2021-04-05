@@ -3,16 +3,18 @@ import sys
 
 
 def search(x):
-    answer = ''
-    for _ in range(check[x] + 1):
-        answer = f'{x} {answer}'
+    answer = []
+    while x != N:
+        answer.append(x)
         x = move[x]
-    print(answer)
+    answer.append(N)
+    answer.reverse()
+    print(*answer)
+    return
 
 
 def solution(N, K):
     temp = deque([N])
-
     while temp:
         x = temp.popleft()
         if x == K:
@@ -20,7 +22,7 @@ def solution(N, K):
             search(x)
             return
 
-        for new_x in (x*2, x+1, x-1):
+        for new_x in (x+1, x-1, x*2):
             if 0 <= new_x <= 100000 and not check[new_x]:
                 temp.append(new_x)
                 check[new_x] = check[x] + 1
