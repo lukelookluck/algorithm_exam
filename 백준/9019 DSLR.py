@@ -3,55 +3,47 @@ import sys
 
 
 def D(n):
-    n *= 2
-    if n > 9999:
-        return [n % 10000, 'D']
-    return [n, 'D']
+    return 2*n % 10000, 'D'
 
 
 def S(n):
-    if n == 0:
-        return [9999, 'S']
-    return [n - 1, 'S']
+    return (n - 1) % 10000, 'S'
 
 
 def L(n):
-    return [(n % 1000) * 10 + n // 1000, 'L']
+    return (n % 1000) * 10 + n // 1000, 'L'
 
 
 def R(n):
-    return [(n % 10) * 1000 + n // 10, 'R']
+    return (n % 10) * 1000 + n // 10, 'R'
 
 
 def find(n):
     answer = ''
     while n != A:
-        answer = check[n][1] + answer
-        n = check[n][0]
+        answer = route[n] + answer
+        n = check[n]
     print(answer)
 
 
-# pypy로만 통과함
 T = int(sys.stdin.readline().strip())
 for tc in range(T):
     A, B = map(int, sys.stdin.readline().split())
-    check = [0] * 10000
-
+    check = [-1] * 10000
+    route = [''] * 10000
     temp = deque([A])
 
     while temp:
-        # print(check)
-        # print(temp)
         a = temp.popleft()
 
         if a == B:
             find(a)
             break
 
-        for i in (D(a), S(a), L(a), R(a)):
-            # print(i)
-            if not check[i[0]]:
-                check[i[0]] = [a, i[1]]
-                temp.append(i[0])
+        for i, j in (D(a), S(a), L(a), R(a)):
+            if check[i] == -1:
+                check[i] = a
+                route[i] = j
+                temp.append(i)
 
 
