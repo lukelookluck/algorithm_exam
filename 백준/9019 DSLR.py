@@ -44,6 +44,9 @@ for tc in range(T):
             if check[i] == -1:
                 check[i] = a
                 route[i] = j
-                temp.append(i)
+                if i == B:
+                    temp.appendleft(i)
+                else:
+                    temp.append(i)
 
 
