@@ -13,13 +13,14 @@ for _ in range(m):
         dist[a][b] = min(dist[a][b], c)
 
 x, y = map(int, sys.stdin.readline().split())
-temp = []
-heappush(temp, (0, x))
 check = [float('inf')] * (n+1)
 route = [-1] * (n+1)
+temp = []
+heappush(temp, (0, x))
+check[x] = 0
 cnt = 0
 
-while temp:
+while temp and cnt != n-1:
     weight, idx = heappop(temp)
     if check[idx] >= weight:
         for toidx, toweight in dist[idx].items():
@@ -28,6 +29,7 @@ while temp:
                 check[toidx] = toweight
                 route[toidx] = idx
                 heappush(temp, (toweight, toidx))
+    cnt += 1
 
 answer = [y]
 key = y
