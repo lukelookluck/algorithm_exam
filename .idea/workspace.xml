@@ -26,7 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
-      <change beforePath="$PROJECT_DIR$/백준/9019 DSLR.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/9019 DSLR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/11779 최소비용 구하기 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/1916 최소비용 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,28 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9019 DSLR">
+  <component name="RunManager" selected="Python.11779 최소비용 구하기 2">
+    <configuration name="11779 최소비용 구하기 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/11779 최소비용 구하기 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="12852 1로 만들기 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,27 +150,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9251 LCS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/9251 LCS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="9252 LCS 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11779 최소비용 구하기 2" />
         <item itemvalue="Python.9019 DSLR" />
         <item itemvalue="Python.13913 숨바꼭질 4" />
         <item itemvalue="Python.12852 1로 만들기 2" />
         <item itemvalue="Python.9252 LCS 2" />
-        <item itemvalue="Python.9251 LCS" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +191,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00068" summary="today's solved coding exam">
-      <created>1616315651095</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1616315651095</updated>
     </task>
     <task id="LOCAL-00069" summary="today's solved coding exam">
       <created>1616317605243</created>
@@ -533,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617694535439</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="today's solved coding exam">
+      <created>1617695121830</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1617695121830</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -627,46 +629,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="846" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610510091544" />
-    <state width="934" height="266" key="GridCell.Tab.0.bottom" timestamp="1617694867010">
+    <state width="934" height="266" key="GridCell.Tab.0.bottom" timestamp="1617871948936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617694867010" />
-    <state width="934" height="266" key="GridCell.Tab.0.center" timestamp="1617694867010">
+    <state width="934" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617871948936" />
+    <state width="934" height="266" key="GridCell.Tab.0.center" timestamp="1617871948935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617694867010" />
-    <state width="934" height="266" key="GridCell.Tab.0.left" timestamp="1617694867010">
+    <state width="934" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617871948935" />
+    <state width="934" height="266" key="GridCell.Tab.0.left" timestamp="1617871948935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617694867010" />
-    <state width="934" height="266" key="GridCell.Tab.0.right" timestamp="1617694867010">
+    <state width="934" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617871948935" />
+    <state width="934" height="266" key="GridCell.Tab.0.right" timestamp="1617871948935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617694867010" />
-    <state width="934" height="334" key="GridCell.Tab.1.bottom" timestamp="1617694358465">
+    <state width="934" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617871948935" />
+    <state width="934" height="334" key="GridCell.Tab.1.bottom" timestamp="1617696818371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617694358465" />
-    <state width="934" height="334" key="GridCell.Tab.1.center" timestamp="1617694358465">
+    <state width="934" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617696818371" />
+    <state width="934" height="334" key="GridCell.Tab.1.center" timestamp="1617696818371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="334" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617694358465" />
-    <state width="934" height="334" key="GridCell.Tab.1.left" timestamp="1617694358465">
+    <state width="934" height="334" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617696818371" />
+    <state width="934" height="334" key="GridCell.Tab.1.left" timestamp="1617696818371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="334" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617694358465" />
-    <state width="934" height="334" key="GridCell.Tab.1.right" timestamp="1617694358465">
+    <state width="934" height="334" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617696818371" />
+    <state width="934" height="334" key="GridCell.Tab.1.right" timestamp="1617696818371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="334" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617694358465" />
+    <state width="934" height="334" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617696818371" />
     <state x="568" y="167" key="SettingsEditor" timestamp="1616503916603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616503916603" />
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1617694536337">
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2" timestamp="1617695123039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617694536337" />
+    <state x="252" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617695123039" />
     <state x="1244" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614684196767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
