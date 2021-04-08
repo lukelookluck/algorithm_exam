@@ -12,29 +12,29 @@ for _ in range(m):
     else:
         dist[a][b] = min(dist[a][b], c)
 
-print(dist)
-
 x, y = map(int, sys.stdin.readline().split())
 temp = []
 heappush(temp, (0, x))
 check = [float('inf')] * (n+1)
+route = [-1] * (n+1)
 cnt = 0
 
 while temp:
     weight, idx = heappop(temp)
-    print(weight, idx)
-
     if check[idx] >= weight:
         for toidx, toweight in dist[idx].items():
             toweight += weight
             if check[toidx] > toweight:
                 check[toidx] = toweight
+                route[toidx] = idx
                 heappush(temp, (toweight, toidx))
 
-    # cnt += 1
-    #
-    # if cnt == n:
-    #     break
+answer = [y]
+key = y
+while route[key] != -1:
+    answer.append(route[key])
+    key = route[key]
 
-print(check)
-
+print(check[y])
+print(len(answer))
+print(*answer[::-1])
