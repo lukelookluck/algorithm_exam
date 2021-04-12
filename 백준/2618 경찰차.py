@@ -1,39 +1,56 @@
-from heapq import heappop, heappush
-import sys
+N=int(input())
+W=int(input())
+wl=[[1,1],[N,N]]
+for i in range(W):
+    wl.append(list(map(int,input().split())))
+
+def dis(x,y):
+    return abs(wl[x][0]-wl[y][0])+abs(wl[x][1] - wl[y][1])
+
+dp=[[0]*(W+2) for i in range(W+2)]
+car=[[-1]*(W+2) for i in range(W+2)]
+car[1][0]=1 # 0 1
+
+print(dp, car)
+
+for i in range(2,W+2):
+    mv = 2 * N * W
+    for j in range(i-1):
+        dp[i][j]=dp[i-1][j]+dis(i,i-1)
+        print(wl)
+        print(i, j)
+        print(*dp, sep='\n')
+        car[i][j]=car[i-1][j]
+        if mv>dp[i-1][j]+dis(i,j):
+            mv=dp[i-1][j]+dis(i,j)
+            car[i][i-1]=(car[i-1][j]+1)%2
+        print('-------------')
+    print('mv', mv)
+    dp[i][i-1]=mv
+    print(*dp, sep='\n')
+
+    print('===============')
 
 
-N = int(sys.stdin.readline().strip())
-W = int(sys.stdin.readline().strip())
-# check = [float('inf')] * (W+1)
-check = [[float('inf')] * (W+1) for _ in range(W+1)]
-answer = 0
-route = []
-f1, f2 = 1, 1
-s1, s2 = N, N
+mv = 2 * N * W
+for i in range(W+1):
+    if mv>dp[W+1][i]:
+        mv=dp[W+1][i]
+        r=i
+c=W+1
 
-dist = [0]
-for k in range(W):
-    dist.append(tuple(map(int, sys.stdin.readline().split())))
+print(mv)
 
-for i in range(1, W+1):
-    for j in range(1, W+1):
-        x = max(i, j)
+li=[(c,r)]
+while 2<c:
 
-        temp1 = abs(f1 - dist[i][0]) + abs(f2 - dist[i][1])
-        temp2 = abs(s1 - dist[i][0]) + abs(s2 - dist[i][1])
+    if r==c-1:
+        for j in range(c-1):
+            if dp[c - 1][j] + dis(c, j) == dp[c][r]:
+                r=j
+                break
+    c-=1
+    li.append((c, r))
 
-        check[0][i] = temp2
-        check[i][0] = temp1
-
-        if temp1 > temp2:
-            answer += temp2
-            route.append(2)
-            s1, s2 = dist[i][0], dist[i][1]
-        else:
-            answer += temp1
-            route.append(1)
-            f1, f2 = dist[i][0], dist[i][1]
-        print(*check, sep='\n')
-
-print(answer)
-print(*route, sep='\n')
+for i in range(W-1,-1,-1):
+    print((car[li[i][0]][li[i][1]]+1))
