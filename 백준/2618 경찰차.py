@@ -1,56 +1,44 @@
-N=int(input())
-W=int(input())
-wl=[[1,1],[N,N]]
-for i in range(W):
-    wl.append(list(map(int,input().split())))
-
-def dis(x,y):
-    return abs(wl[x][0]-wl[y][0])+abs(wl[x][1] - wl[y][1])
-
-dp=[[0]*(W+2) for i in range(W+2)]
-car=[[-1]*(W+2) for i in range(W+2)]
-car[1][0]=1 # 0 1
-
-print(dp, car)
-
-for i in range(2,W+2):
-    mv = 2 * N * W
-    for j in range(i-1):
-        dp[i][j]=dp[i-1][j]+dis(i,i-1)
-        print(wl)
-        print(i, j)
-        print(*dp, sep='\n')
-        car[i][j]=car[i-1][j]
-        if mv>dp[i-1][j]+dis(i,j):
-            mv=dp[i-1][j]+dis(i,j)
-            car[i][i-1]=(car[i-1][j]+1)%2
-        print('-------------')
-    print('mv', mv)
-    dp[i][i-1]=mv
-    print(*dp, sep='\n')
-
-    print('===============')
+import sys
+sys.setrecursionlimit(10 ** 9)
 
 
-mv = 2 * N * W
-for i in range(W+1):
-    if mv>dp[W+1][i]:
-        mv=dp[W+1][i]
-        r=i
-c=W+1
+def solution(x, y):
+    if x > W or y > W:
+        return 0
+    if dp[x][y] != -1:
+        return dp[x][y]
 
-print(mv)
+    nc = max(x, y) + 1
+    nx = solution(nc, y) + abs(dist[nc][0] - dist[x][0]) + abs(dist[nc][1] - dist[x][1])
+    ny = solution(x, nc) + abs(dist[nc][0] - dist[y][0]) + abs(dist[nc][1] - dist[y][1])
+    dp[x][y] = min(nx, ny)
 
-li=[(c,r)]
-while 2<c:
+    return dp[x][y]
 
-    if r==c-1:
-        for j in range(c-1):
-            if dp[c - 1][j] + dis(c, j) == dp[c][r]:
-                r=j
-                break
-    c-=1
-    li.append((c, r))
 
-for i in range(W-1,-1,-1):
-    print((car[li[i][0]][li[i][1]]+1))
+def route(x, y):
+    if x > W or y > W:
+        return
+    nc = max(x, y) + 1
+    nx = abs(dist[nc][0] - dist[x][0]) + abs(dist[nc][1] - dist[x][1])
+    ny = abs(dist[nc][0] - dist[y][0]) + abs(dist[nc][1] - dist[y][1])
+
+    if dp[nc][y] + nx < dp[x][nc] + ny:
+        print(1)
+        route(nc, y)
+    else:
+        print(2)
+        route(x, nc)
+
+
+N = int(sys.stdin.readline().strip())
+W = int(sys.stdin.readline().strip())
+dist = [(1, 1), (N, N)]
+
+for _ in range(W):
+    dist.append(tuple(map(int, input().split())))
+
+dp = [[-1] * (W+2) for _ in range(W+2)]
+
+print(solution(0, 1))
+route(0, 1)
