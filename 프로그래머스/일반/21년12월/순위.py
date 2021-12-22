@@ -1,5 +1,6 @@
 from collections import defaultdict
 
+
 def solution(n, results):
     answer = 0
     win_g = defaultdict(set)
