@@ -3,7 +3,7 @@ sys.setrecursionlimit(10**6)
 
 
 def divide(in_start, in_end, p_start, p_end):
-    print(in_start, in_end, p_start, p_end)
+    # print(in_start, in_end, p_start, p_end)
     if(in_start > in_end) or (p_start > p_end):
         return
 
@@ -12,9 +12,9 @@ def divide(in_start, in_end, p_start, p_end):
 
     left = pos[parents] - in_start  # 후위순회에서의 왼쪽인자 갯수
     right = in_end - pos[parents]  # 후위순회에서의 오른쪽인자 갯수
-    print(left, right)
+    # print(left, right)
     divide(in_start, in_start + left - 1, p_start, p_start + left - 1)  # 왼쪽 노드
-    print('asdasdasd')
+    # print('asdasdasd')
     divide(in_end - right + 1, in_end, p_end - right, p_end - 1)  # 오른쪽 노드
 
 
