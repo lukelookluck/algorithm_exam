@@ -26,7 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/프린터.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월/프린터.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -190,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00080" summary="today's solved coding exam">
-      <created>1616508033541</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1616508033541</updated>
     </task>
     <task id="LOCAL-00081" summary="today's solved coding exam">
       <created>1616508410822</created>
@@ -534,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640271428482</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="today's solved coding exam">
+      <created>1640272909907</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1640272909907</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -604,30 +603,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="today's solved coding exam" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1897" height="266" key="GridCell.Tab.0.bottom" timestamp="1640272684740">
+    <state width="1897" height="266" key="GridCell.Tab.0.bottom" timestamp="1640272979938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272684740" />
-    <state width="1897" height="266" key="GridCell.Tab.0.center" timestamp="1640272684740">
+    <state width="1897" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272979938" />
+    <state width="1897" height="266" key="GridCell.Tab.0.center" timestamp="1640272979938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272684740" />
-    <state width="1897" height="266" key="GridCell.Tab.0.left" timestamp="1640272684740">
+    <state width="1897" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272979938" />
+    <state width="1897" height="266" key="GridCell.Tab.0.left" timestamp="1640272979938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272684740" />
-    <state width="1897" height="266" key="GridCell.Tab.0.right" timestamp="1640272684740">
+    <state width="1897" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272979938" />
+    <state width="1897" height="266" key="GridCell.Tab.0.right" timestamp="1640272979938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272684740" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1640182000997">
+    <state width="1897" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272979938" />
+    <state x="460" y="163" key="SettingsEditor" timestamp="1640272899306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640182000997" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1640271430727">
+    <state x="460" y="163" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272899306" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1640272922763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640271430727" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272922763" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1640272999618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272999618" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1640271409424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
