@@ -26,8 +26,3 @@ def solution(priorities, location):
                 order -= 1
 
     return answer
-
-a = [1, 7, 9, 1, 1, 8]
-b = 0
-
-print(solution(a, b))
