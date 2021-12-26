@@ -26,9 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
-      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월/다리를 지나는 트럭.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월/기능개발.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/프린터.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월/프린터.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,28 +64,7 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.다리를 지나는 트럭">
-    <configuration name="다리를 지나는 트럭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/일반/21년12월" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/21년12월/다리를 지나는 트럭.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.기능개발">
     <configuration name="문제 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,6 +78,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/월간코드 시즌 2/문제 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="다리를 지나는 트럭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/일반/21년12월" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/21년12월/다리를 지나는 트럭.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2618 경찰차" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="기능개발" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/일반/21년12월" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/2618 경찰차.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/21년12월/기능개발.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.기능개발" />
         <item itemvalue="Python.다리를 지나는 트럭" />
         <item itemvalue="Python.프린터" />
         <item itemvalue="Python.문제 3" />
         <item itemvalue="Python.2263 트리의 순회" />
-        <item itemvalue="Python.2618 경찰차" />
       </list>
     </recent_temporary>
   </component>
@@ -191,20 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00083" summary="today's solved coding exam">
-      <created>1616581824161</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1616581824162</updated>
-    </task>
-    <task id="LOCAL-00084" summary="today's solved coding exam">
-      <created>1616597055112</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1616597055112</updated>
     </task>
     <task id="LOCAL-00085" summary="today's solved coding exam">
       <created>1616597409778</created>
@@ -535,7 +520,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640273089601</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="today's solved coding exam">
+      <created>1640415295091</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1640415295092</updated>
+    </task>
+    <task id="LOCAL-00133" summary="today's solved coding exam">
+      <created>1640415596484</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1640415596484</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -605,22 +604,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="today's solved coding exam" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1897" height="266" key="GridCell.Tab.0.bottom" timestamp="1640415269342">
+    <state width="1897" height="266" key="GridCell.Tab.0.bottom" timestamp="1640493508226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640415269342" />
-    <state width="1897" height="266" key="GridCell.Tab.0.center" timestamp="1640415269341">
+    <state width="1897" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640493508226" />
+    <state width="1897" height="266" key="GridCell.Tab.0.center" timestamp="1640493508226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640415269341" />
-    <state width="1897" height="266" key="GridCell.Tab.0.left" timestamp="1640415269341">
+    <state width="1897" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640493508226" />
+    <state width="1897" height="266" key="GridCell.Tab.0.left" timestamp="1640493508226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640415269341" />
-    <state width="1897" height="266" key="GridCell.Tab.0.right" timestamp="1640415269342">
+    <state width="1897" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640493508226" />
+    <state width="1897" height="266" key="GridCell.Tab.0.right" timestamp="1640493508226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640415269342" />
+    <state width="1897" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640493508226" />
     <state x="460" y="163" key="SettingsEditor" timestamp="1640272899306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -629,10 +628,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640415273216" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1640273114204">
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1640415601361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640273114204" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640415601361" />
     <state x="623" y="225" width="670" height="58" key="search.everywhere.popup" timestamp="1640415027193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
