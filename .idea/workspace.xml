@@ -26,7 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
-      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월/주식가격.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월/더 맵게.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월/디스크 컨트롤러 랩3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +65,8 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.주식가격">
-    <configuration name="문제 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.더 맵게">
+    <configuration name="더 맵게" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/일반/월간코드 시즌 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/일반/21년12월" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/월간코드 시즌 2/문제 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/21년12월/더 맵게.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +173,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.주식가격" />
-        <item itemvalue="Python.기능개발" />
+        <item itemvalue="Python.더 맵게" />
         <item itemvalue="Python.다리를 지나는 트럭" />
         <item itemvalue="Python.프린터" />
-        <item itemvalue="Python.문제 3" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00086" summary="today's solved coding exam">
-      <created>1616601682476</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1616601682476</updated>
     </task>
     <task id="LOCAL-00087" summary="today's solved coding exam">
       <created>1616601763689</created>
@@ -534,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640493565031</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="today's solved coding exam">
+      <created>1640494419274</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1640494419274</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -604,38 +603,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="today's solved coding exam" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1897" height="266" key="GridCell.Tab.0.bottom" timestamp="1640494388267">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1640703104933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640494388267" />
-    <state width="1897" height="266" key="GridCell.Tab.0.center" timestamp="1640494388267">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640703104933" />
+    <state width="1897" height="266" key="GridCell.Tab.0.bottom" timestamp="1640502438958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640494388267" />
-    <state width="1897" height="266" key="GridCell.Tab.0.left" timestamp="1640494388267">
+    <state width="1897" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640502438958" />
+    <state width="1897" height="266" key="GridCell.Tab.0.center" timestamp="1640502438956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640494388267" />
-    <state width="1897" height="266" key="GridCell.Tab.0.right" timestamp="1640494388267">
+    <state width="1897" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640502438956" />
+    <state width="1897" height="266" key="GridCell.Tab.0.left" timestamp="1640502438956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640494388267" />
+    <state width="1897" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640502438956" />
+    <state width="1897" height="266" key="GridCell.Tab.0.right" timestamp="1640502438957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640502438957" />
     <state x="460" y="163" key="SettingsEditor" timestamp="1640272899306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="460" y="163" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640272899306" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1640415273216">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1640703104522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640415273216" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1640493555352">
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640703104522" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1640497285620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640493555352" />
-    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup" timestamp="1640415027193">
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640497285620" />
+    <state x="623" y="225" width="672" height="160" key="search.everywhere.popup" timestamp="1640495621858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640415027193" />
+    <state x="623" y="225" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1640495621858" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
