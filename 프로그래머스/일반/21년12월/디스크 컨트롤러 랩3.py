@@ -19,4 +19,4 @@ def solution(jobs):
         else:
             n += 1
 
-    return int(answer / len(jobs)
+    return int(answer / len(jobs))
