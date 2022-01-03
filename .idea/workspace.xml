@@ -29,8 +29,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월/베스트앨범.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/모의고사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/H-Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/H-Index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/K번째수.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/K번째수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/가장 큰 수.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/가장 큰 수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/기능개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/기능개발.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/다리를 지나는 트럭.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/다리를 지나는 트럭.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/더 맵게.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/더 맵게.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/디스크 컨트롤러 랩3.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/디스크 컨트롤러 랩3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/베스트앨범.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/베스트앨범.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/순위.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/순위.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/완주하지 못한 선수.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/완주하지 못한 선수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/위장.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/위장.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/이중우선순위큐 랩3.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/이중우선순위큐 랩3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/전화번호 목록.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/전화번호 목록.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/주식가격.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/주식가격.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월/프린터.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/프린터.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +86,7 @@
       <recent name="C:\Users\YU\싸피\알고 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.베스트앨범">
+  <component name="RunManager" selected="Python.모의고사">
     <configuration name="완주하지 못한 선수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,27 +100,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/21년12월/완주하지 못한 선수.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="더 맵게" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_exam" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/일반/21년12월" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/21년12월/더 맵게.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,6 +142,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/21년12월/베스트앨범.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="모의고사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스/일반/21년12월시작" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/모의고사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.모의고사" />
         <item itemvalue="Python.베스트앨범" />
         <item itemvalue="Python.완주하지 못한 선수" />
         <item itemvalue="Python.K번째수" />
         <item itemvalue="Python.이중우선순위큐 랩3" />
-        <item itemvalue="Python.더 맵게" />
       </list>
     </recent_temporary>
   </component>
@@ -240,13 +255,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00090" summary="today's solved coding exam">
-      <created>1616658526883</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1616658526883</updated>
     </task>
     <task id="LOCAL-00091" summary="today's solved coding exam">
       <created>1616769033950</created>
@@ -584,7 +592,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641196866278</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="today's solved coding exam">
+      <created>1641198312718</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1641198312718</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
