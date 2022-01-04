@@ -1,4 +1,5 @@
 from itertools import permutations
+import math
 
 def solution(numbers):
     answer = 0
@@ -12,7 +13,7 @@ def solution(numbers):
     for ms in my_set:
         my_bool = True
         if int(ms) >= 2:
-            for i in range(2, (int(ms) // 2)):
+            for i in range(2, int(math.sqrt(int(ms))) + 1):
                 if int(ms) % i == 0:
                     my_bool = False
             if my_bool:
