@@ -1,13 +1,19 @@
 def solution(phone_book):
-    phone_book = sorted(phone_book, key=len)
+    phone_book = sorted(phone_book)
+    hash = {}
 
-    for i in range(len(phone_book)):
-        temp = phone_book[i]
-        for j in range(i+1, len(phone_book)):
-            if temp == phone_book[j][:len(temp)]:
+    for phone_number in phone_book:
+        hash[phone_number] = 1
+
+    print(hash)
+    for phone_number in phone_book:
+        temp = ''
+        for number in phone_number:
+            temp += number
+            if temp in hash and temp != phone_number:
                 return False
 
     return True
 
-a = ["123","456","789"]
+a = ["119", "97674223", "1195524421"]
 print(solution(a))
