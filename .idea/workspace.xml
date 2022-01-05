@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/네트워크.py" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/네트워크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/네트워크.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,13 +252,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00093" summary="today's solved coding exam">
-      <created>1616854440618</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1616854440619</updated>
     </task>
     <task id="LOCAL-00094" summary="today's solved coding exam">
       <created>1617020357080</created>
@@ -597,7 +589,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641392046896</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="today's solved coding exam">
+      <created>1641392654356</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1641392654356</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -667,10 +666,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="today's solved coding exam" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641303656254">
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641392644286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641303656254" />
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641392644286" />
     <state x="665" y="110" key="#소수_찾기" timestamp="1641303645864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -703,10 +702,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641306386079" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1641392047764">
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1641392656026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641392047764" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641392656026" />
     <state x="623" y="225" width="672" height="160" key="search.everywhere.popup" timestamp="1640495621858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
