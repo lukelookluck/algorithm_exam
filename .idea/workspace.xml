@@ -26,7 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
-      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/네트워크.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/K번째수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/프로그래머스/일반/21년12월시작/K번쨰수.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,13 +254,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00094" summary="today's solved coding exam">
-      <created>1617020357080</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1617020357081</updated>
     </task>
     <task id="LOCAL-00095" summary="today's solved coding exam">
       <created>1617021110348</created>
@@ -596,7 +591,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641392654356</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="today's solved coding exam">
+      <created>1641392931688</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1641392931688</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -702,10 +704,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641306386079" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1641392656026">
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1641392933475">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641392656026" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641392933475" />
     <state x="623" y="225" width="672" height="160" key="search.everywhere.popup" timestamp="1640495621858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
