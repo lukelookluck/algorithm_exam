@@ -252,13 +252,6 @@
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
     </task>
-    <task id="LOCAL-00100" summary="today's solved coding exam">
-      <created>1617125435277</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1617125435277</updated>
-    </task>
     <task id="LOCAL-00101" summary="today's solved coding exam">
       <created>1617126277348</created>
       <option name="number" value="00101" />
@@ -595,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641480118723</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="today's solved coding exam">
+      <created>1642077728802</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1642077728802</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -701,10 +701,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641306386079" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1641480119534">
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1642077730856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641480119534" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1642077730856" />
+    <state x="654" y="306" key="git4idea.merge.GitPullDialog" timestamp="1642077609123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1642077609123" />
     <state x="623" y="225" width="672" height="160" key="search.everywhere.popup" timestamp="1640495621858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
