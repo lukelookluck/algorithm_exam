@@ -26,10 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam">
-      <change afterPath="$PROJECT_DIR$/백준/숫자 카드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83bd047a-74dd-4155-8397-ee12c645b4d3" name="Default Changelist" comment="today's solved coding exam" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -274,13 +271,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599540279998</updated>
-    </task>
-    <task id="LOCAL-00102" summary="today's solved coding exam">
-      <created>1617186784174</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1617186784174</updated>
     </task>
     <task id="LOCAL-00103" summary="today's solved coding exam">
       <created>1617191791779</created>
@@ -618,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642081459792</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="today's solved coding exam">
+      <created>1642169836642</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1642169836643</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -728,11 +725,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641306386079" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1642081460615">
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1642169837592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1641480119534" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1642081460615" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1642169837592" />
     <state x="654" y="306" key="git4idea.merge.GitPullDialog" timestamp="1642169200875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
