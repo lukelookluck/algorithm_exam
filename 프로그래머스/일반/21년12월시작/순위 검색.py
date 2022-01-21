@@ -24,18 +24,19 @@ def solution(info, query):
             for t in food:
                 cnt += search(a, b, c, t, e)
         else:
-            l, h = 0, len(my_d[a][b][c][d]) - 1
-            result = len(my_d[a][b][c][d])
+            my_arr = my_d[a][b][c][d]
+            my_len = len(my_arr)
+            l, h = 0, my_len - 1
+            result = my_len
             while l <= h:
                 m = (l + h) // 2
-                if e > my_d[a][b][c][d][m]:
+                if e > my_arr[m]:
                     l = m + 1
                 else:
                     result = m
                     h = m - 1
-            cnt += len(my_d[a][b][c][d])  - result
+            cnt += my_len - result
         return cnt            
-        
                 
     for l in lang:
         my_d[l] = {}
@@ -60,10 +61,6 @@ def solution(info, query):
         a, b, c, d = temp.split(' and ')
         d, e = d.split()
         e = int(e)
-        # print(a, b, c, d, e)
         answer.append(search(a, b, c, d, e))
-    
-    
-    
     
     return answer
